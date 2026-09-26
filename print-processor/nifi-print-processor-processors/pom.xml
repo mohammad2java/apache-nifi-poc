@@ -19,7 +19,7 @@
     <parent>
         <groupId>in.mohd</groupId>
         <artifactId>print-processor</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0</version>
     </parent>
 
     <artifactId>nifi-print-processor-processors</artifactId>
